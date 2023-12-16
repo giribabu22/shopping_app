@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146737298765",
+    "project_id": "pre-mart",
+    "storage_bucket": "pre-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146737298765:android:6bc821f2000e3b781ccb04",
+        "android_client_info": {
+          "package_name": "com.example.pre_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW9_aX6xhk0PVaA0gJHAckIZTn7FvjEXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
